@@ -21,6 +21,8 @@ By 2019, more than 70% of enterprise DevSecOps initiatives will have incorporate
 
 --- 
 
+![Shifting left](https://cdn-images-1.medium.com/max/800/1*HgtYStvx8sQzAP4Hpt8Sug.png)
+
 ## Clave: shift-left
 
 Llevar la seguridad lo más al inicio del ciclo
@@ -29,10 +31,10 @@ Llevar la seguridad lo más al inicio del ciclo
 
 ![DevOps toolset](assets/img/devops-tools.jpg)
 
-## Adaptar las herramientas y procesos a los desarrolladores
+### Adaptar las herramientas y procesos a los desarrolladores
 
 Note: 
-)
+
 “Adapt your security testing tools and processes to the developers, not the other way around:” According to the analysts, the Sec in DevSecOps should be silent. That means the security team needs to change their processes and tools to be integrated into DevOps, instead of trying to enforce their old processes be adopted.
 
 ---
