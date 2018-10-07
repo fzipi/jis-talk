@@ -9,7 +9,7 @@ Note:
 - Esta es una charla sobre cómo incorporar seguridad en un proceso
 - Está orientada a Agile
 
----?image=assets/img/devsecops-gartner.jpg
+---?image=assets/img/devsecops-gartner.jpg&&position=up&size=55% 100%
 
 ## Gartner
 
@@ -21,7 +21,7 @@ By 2019, more than 70% of enterprise DevSecOps initiatives will have incorporate
 
 Llevar la seguridad lo más al inicio del ciclo
 
----?image=assets/img/devops-tools.jpg
+---?image=assets/img/devops-tools.jpg&position=up&size=55% 100%
 ## Adaptar las herramientas y procesos a los desarrolladores
 
 Note: 
