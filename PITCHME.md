@@ -37,10 +37,9 @@ Note:
 
 “Adapt your security testing tools and processes to the developers, not the other way around:” According to the analysts, the Sec in DevSecOps should be silent. That means the security team needs to change their processes and tools to be integrated into DevOps, instead of trying to enforce their old processes be adopted.
 
----
-![Superman](https://clipart.info/images/ccovers/1516943364superman-png-high-definition-quality.png)
+---?image=https://clipart.info/images/ccovers/1516943364superman-png-high-definition-quality.png
 
-### Desistir de intentar eliminar todas las vulnerabilidades durante el desarrollo
+- Desistir de intentar eliminar todas las vulnerabilidades durante el desarrollo
 
 Note: 
 
@@ -56,7 +55,7 @@ Note:
 
 ---
 
-### No esperar utilizar SAST/DAST sin cambios
+- No esperar utilizar SAST/DAST sin cambios
 
 Note: 
 
@@ -64,8 +63,8 @@ Note:
 
 ---
 
-### Entrenar todos los desarrolladores en las bases de *secure coding*
-### ...pero no esperen que se conviertan en expertos en seguridad
+- Entrenar todos los desarrolladores en las bases de *secure coding*
+- ...pero no esperen que se conviertan en expertos en seguridad
 
 Note: 
 
