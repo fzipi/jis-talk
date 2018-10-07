@@ -1,4 +1,4 @@
----?image=assets/img/glasgow.png&position=left&size=55% 100%
+---?image=assets/img/unicorn.jpg
 @title[DevSecOps: Seguridad en los tiempos del Agile]
 
 # DevSecOps: Seguridad en los tiempos del Agile
@@ -9,9 +9,11 @@ Note:
 - Esta es una charla sobre cómo incorporar seguridad en un proceso
 - Está orientada a Agile
 
----?image=assets/img/devsecops-gartner.jpg&&position=up&size=55% 100%
+---
 
 ## Gartner
+
+![DevSecOps by gartner](assets/img/devsecops-gartner.jpg)
 
 By 2019, more than 70% of enterprise DevSecOps initiatives will have incorporated automated security vulnerability and configuration scanning for open-source components and commercial packages, up from less than 10% in 2016. By 2021, DevSecOps practices will be embedded in 80% of rapid development teams, up from 15% in 2017.
 
@@ -21,11 +23,14 @@ By 2019, more than 70% of enterprise DevSecOps initiatives will have incorporate
 
 Llevar la seguridad lo más al inicio del ciclo
 
----?image=assets/img/devops-tools.jpg&position=up&size=55% 100%
+---
+
+![DevOps toolset](assets/img/devops-tools.jpg)
+
 ## Adaptar las herramientas y procesos a los desarrolladores
 
 Note: 
-
+)
 “Adapt your security testing tools and processes to the developers, not the other way around:” According to the analysts, the Sec in DevSecOps should be silent. That means the security team needs to change their processes and tools to be integrated into DevOps, instead of trying to enforce their old processes be adopted.
 
 ---
