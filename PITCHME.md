@@ -1,9 +1,9 @@
 ---?image=assets/img/unicorn.jpg
-@title[@color[white]DevSecOps: @color[orange]Seguridad en los tiempos del Agile]
+@title[@color[white](DevSecOps:) @color[orange](Seguridad en los tiempos del Agile)]
 
-# @color[white] DevSecOps: 
+# @color[white](DevSecOps:)
 
-## @color[orange] Seguridad en los tiempos del Agile
+## @color[orange](Seguridad en los tiempos del Agile)
 
 Note: 
 
