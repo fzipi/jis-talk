@@ -1,7 +1,7 @@
 ---?image=assets/img/unicorn.jpg
 @title[DevSecOps: Seguridad en los tiempos del Agile]
 
-# DevSecOps: Seguridad en los tiempos del Agile
+# @color[white] DevSecOps: Seguridad en los tiempos del Agile
 
 Note: 
 
