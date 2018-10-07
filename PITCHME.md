@@ -17,7 +17,7 @@ Note:
 
 ![DevSecOps by gartner](assets/img/devsecops-gartner.jpg)
 
-By 2019, more than 70% of enterprise DevSecOps initiatives will have incorporated automated security vulnerability and configuration scanning for open-source components and commercial packages, up from less than 10% in 2016. By 2021, DevSecOps practices will be embedded in 80% of rapid development teams, up from 15% in 2017.
+@quote[By 2019, more than 70% of enterprise DevSecOps initiatives will have incorporated automated security vulnerability and configuration scanning for open-source components and commercial packages, up from less than 10% in 2016. By 2021, DevSecOps practices will be embedded in 80% of rapid development teams, up from 15% in 2017.]
 
 --- 
 
@@ -39,7 +39,7 @@ Note:
 
 ---
 
-## Desistir de intentar eliminar todas las vulnerabilidades durante el desarrollo
+### Desistir de intentar eliminar todas las vulnerabilidades durante el desarrollo
 
 Note: 
 
@@ -47,7 +47,7 @@ Note:
 
 ---
 
-## Enfocarse en identificar y eliminar las vulnerabilidades críticas conocidas
+### Enfocarse en identificar y eliminar las vulnerabilidades críticas conocidas
 
 Note: 
 
@@ -55,7 +55,7 @@ Note:
 
 ---
 
-## No esperar utilizar SAST/DAST sin cambios
+### No esperar utilizar SAST/DAST sin cambios
 
 Note: 
 
@@ -63,7 +63,8 @@ Note:
 
 ---
 
-## Entrenar todos los desarrolladores en las bases de *secure coding*, pero no esperen que se conviertan en expertos en seguridad
+### Entrenar todos los desarrolladores en las bases de *secure coding*
+### ...pero no esperen que se conviertan en expertos en seguridad
 
 Note: 
 
@@ -71,7 +72,8 @@ Note:
 
 ---
 
-## Adoptar un modelo de Security Champion e implementar una herramienta simple para recabar requerimientos de seguridad
+### Adoptar un modelo de Security Champion
+### Implementar una herramienta simple para recabar requerimientos de seguridad
 
 Note: 
 
@@ -79,7 +81,7 @@ Note:
 
 ---
 
-## Eliminar el uso de componentes vulnerables en el origen
+### Eliminar el uso de componentes vulnerables en el origen
 
 Note: 
 
@@ -104,9 +106,12 @@ Note:
 
 ---
 
-## Adoptar la mentalida de infraestructura inmutable
+## Adoptar la mentalidad de infraestructura inmutable
 
 Note: 
 
 “Adopt an immutable infrastructure mindset.“ Teams should work towards a place where all the infrastructure is only updated by the tools. This is a sign that the team is maturing, and it provides a more secure way to maintain applications, according to Head.
 
+---
+
+¿Preguntas?
