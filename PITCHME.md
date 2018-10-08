@@ -40,7 +40,9 @@ Note:
 
 ---?image=https://clipart.info/images/ccovers/1516943364superman-png-high-definition-quality.png&position=left&size=55% 100%
 
-- Desistir de intentar eliminar todas las vulnerabilidades durante el desarrollo
+@snap[east]
+### Desistir de intentar eliminar todas las vulnerabilidades durante el desarrollo
+@snapend
 
 Note: 
 
