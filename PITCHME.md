@@ -1,11 +1,12 @@
 ---?image=assets/img/unicorn.jpg
-@title[@color[white](DevSecOps:) @color[orange](Seguridad en los tiempos del Agile)]
+
+@title [@color[white](DevSecOps:) @color[orange](Seguridad en los tiempos del Agile)]
 
 # @color[white](DevSecOps:)
 
 ## @color[orange](Seguridad en los tiempos del Agile)
 
-Note: 
+Note:
 
 - Bienvenidos a todos, gracias por venir
 - Esta es una charla sobre cómo incorporar seguridad en un proceso
@@ -37,7 +38,7 @@ Note:
 
 “Adapt your security testing tools and processes to the developers, not the other way around:” According to the analysts, the Sec in DevSecOps should be silent. That means the security team needs to change their processes and tools to be integrated into DevOps, instead of trying to enforce their old processes be adopted.
 
----?image=https://clipart.info/images/ccovers/1516943364superman-png-high-definition-quality.png
+---?image=https://clipart.info/images/ccovers/1516943364superman-png-high-definition-quality.png&position=left&size=55% 100%
 
 - Desistir de intentar eliminar todas las vulnerabilidades durante el desarrollo
 
@@ -55,7 +56,7 @@ Note:
 
 ---
 
-- No esperar utilizar SAST/DAST sin cambios
+### No esperar utilizar SAST/DAST sin cambios
 
 Note: 
 
@@ -63,8 +64,8 @@ Note:
 
 ---
 
-- Entrenar todos los desarrolladores en las bases de *secure coding*
-- ...pero no esperen que se conviertan en expertos en seguridad
+### Entrenar todos los desarrolladores en las bases de *secure coding*
+#### ...pero no esperen que se conviertan en expertos en seguridad
 
 Note: 
 
@@ -89,7 +90,7 @@ Note:
 
 ---
 
-## Aplicar una disciplina segura a los scripts de automatizacion
+## Asegurar a los scripts de automatizacion
 
 Note: 
 
@@ -99,6 +100,10 @@ Note:
 ---
 
 ## Implementar un fuerte control de versiones en todo el código y componentes
+
+```bash
+git init
+```
 
 Note: 
 
