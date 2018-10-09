@@ -1,6 +1,6 @@
 ---?image=assets/img/unicorn.jpg
 
-@title [@color[white](DevSecOps:) @color[orange](Seguridad en los tiempos del Agile)]
+@title[@color[white](DevSecOps:) @color[orange](Seguridad en los tiempos del Agile)]
 
 # @color[white](DevSecOps:)
 
@@ -14,7 +14,9 @@ Note:
 
 ---
 
-## Gartner
+@snap[top-west]
+### Gartner
+@snapend
 
 ![DevSecOps by gartner](assets/img/devsecops-gartner.jpg)
 
