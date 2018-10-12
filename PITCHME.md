@@ -36,7 +36,7 @@ Llevar la seguridad lo más al inicio del ciclo
 
 ![DevOps toolset](assets/img/devops-tools.jpg)
 
-### Adaptar las herramientas y procesos a los desarrolladores
+Adaptar las herramientas y procesos a los desarrolladores
 
 Note: 
 
@@ -45,7 +45,7 @@ Note:
 ---?image=https://clipart.info/images/ccovers/1516943364superman-png-high-definition-quality.png&position=left&size=55% 100%
 
 @snap[east]
-### Desistir de intentar eliminar todas las vulnerabilidades durante el desarrollo
+Desistir de intentar eliminar todas las vulnerabilidades durante el desarrollo
 @snapend
 
 Note: 
