@@ -15,15 +15,11 @@ Note:
 ---
 @title[Gartner projections]
 
-@transition[none]
+@quote[By 2019, more than 70% of enterprise DevSecOps initiatives will have incorporated automated security vulnerability and configuration scanning for open-source components and commercial packages, up from less than 10% in 2016. By 2021, DevSecOps practices will be embedded in 80% of rapid development teams, up from 15% in 2017.]
 
-@snap[top-west]
-### Gartner
-@snapend
+---
 
 ![DevSecOps by gartner](assets/img/devsecops-gartner.jpg)
-
-@quote[By 2019, more than 70% of enterprise DevSecOps initiatives will have incorporated automated security vulnerability and configuration scanning for open-source components and commercial packages, up from less than 10% in 2016. By 2021, DevSecOps practices will be embedded in 80% of rapid development teams, up from 15% in 2017.]
 
 --- 
 @title[Shift-left]
@@ -37,9 +33,9 @@ Llevar la seguridad lo más al inicio del ciclo
 ---
 @title[Devops toolset]
 
-![DevOps toolset](assets/img/devops-tools.jpg)
-
 Adaptar las herramientas y procesos a los desarrolladores
+
+![DevOps toolset](assets/img/devops-tools.jpg)
 
 Note: 
 
@@ -49,8 +45,8 @@ Note:
 @transition[none]
 
 @snap[east]
-Desistir de intentar eliminar 
-todas las vulnerabilidades 
+Desistir de intentar eliminar <br />
+todas las vulnerabilidades <br />
 durante el desarrollo
 @snapend
 
@@ -60,7 +56,7 @@ Note:
 
 ---
 
-### Enfocarse en identificar y eliminar las vulnerabilidades críticas conocidas
+Enfocarse en identificar y eliminar las vulnerabilidades críticas conocidas
 
 Note: 
 
@@ -68,7 +64,7 @@ Note:
 
 ---
 
-### No esperar utilizar SAST/DAST sin cambios
+No esperar utilizar SAST/DAST sin cambios
 
 Note: 
 
@@ -76,8 +72,8 @@ Note:
 
 ---
 
-### Entrenar todos los desarrolladores en las bases de *secure coding*
-#### ...pero no esperen que se conviertan en expertos en seguridad
+Entrenar todos los desarrolladores en las bases de *secure coding*
+...pero no esperen que se conviertan en expertos en seguridad
 
 Note: 
 
@@ -85,8 +81,8 @@ Note:
 
 ---
 
-### Adoptar un modelo de Security Champion
-### Implementar una herramienta simple para recabar requerimientos de seguridad
+Adoptar un modelo de Security Champion
+Implementar una herramienta simple para recabar requerimientos de seguridad
 
 Note: 
 
@@ -94,7 +90,7 @@ Note:
 
 ---
 
-### Eliminar el uso de componentes vulnerables en el origen
+Eliminar el uso de componentes vulnerables en el origen
 
 Note: 
 
@@ -102,7 +98,7 @@ Note:
 
 ---
 
-## Asegurar a los scripts de automatizacion
+Asegurar a los scripts de automatizacion
 
 Note: 
 
@@ -111,7 +107,7 @@ Note:
 
 ---
 
-## Implementar un fuerte control de versiones en todo el código y componentes
+Implementar un fuerte control de versiones en todo el código y componentes
 
 ```bash
 git init
@@ -123,7 +119,7 @@ Note:
 
 ---
 
-## Adoptar la mentalidad de infraestructura inmutable
+Adoptar la mentalidad de infraestructura inmutable
 
 Note: 
 
