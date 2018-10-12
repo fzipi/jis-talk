@@ -13,11 +13,10 @@ Note:
 - Está orientada a Agile
 
 ---
+@transition[none]
 
 @snap[top-west]
-
 ### Gartner
-
 @snapend
 
 ![DevSecOps by gartner](assets/img/devsecops-gartner.jpg)
@@ -43,9 +42,12 @@ Note:
 “Adapt your security testing tools and processes to the developers, not the other way around:” According to the analysts, the Sec in DevSecOps should be silent. That means the security team needs to change their processes and tools to be integrated into DevOps, instead of trying to enforce their old processes be adopted.
 
 ---?image=https://clipart.info/images/ccovers/1516943364superman-png-high-definition-quality.png&position=left&size=55% 100%
+@transition[none]
 
 @snap[east]
-Desistir de intentar eliminar todas las vulnerabilidades durante el desarrollo
+Desistir de intentar eliminar 
+todas las vulnerabilidades 
+durante el desarrollo
 @snapend
 
 Note: 
