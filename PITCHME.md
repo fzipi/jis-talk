@@ -1,6 +1,6 @@
 ---?image=assets/img/unicorn.jpg
 
-@title[@color[white](DevSecOps:) @color[orange](Seguridad en los tiempos del Agile)]
+@title[DevSecOps: Seguridad en los tiempos del Agile]
 
 # @color[white](DevSecOps:)
 
@@ -13,6 +13,8 @@ Note:
 - Está orientada a Agile
 
 ---
+@title[Gartner projections]
+
 @transition[none]
 
 @snap[top-west]
@@ -24,6 +26,7 @@ Note:
 @quote[By 2019, more than 70% of enterprise DevSecOps initiatives will have incorporated automated security vulnerability and configuration scanning for open-source components and commercial packages, up from less than 10% in 2016. By 2021, DevSecOps practices will be embedded in 80% of rapid development teams, up from 15% in 2017.]
 
 --- 
+@title[Shift-left]
 
 ![Shifting left](https://cdn-images-1.medium.com/max/800/1*HgtYStvx8sQzAP4Hpt8Sug.png)
 
@@ -32,6 +35,7 @@ Note:
 Llevar la seguridad lo más al inicio del ciclo
 
 ---
+@title[Devops toolset]
 
 ![DevOps toolset](assets/img/devops-tools.jpg)
 
