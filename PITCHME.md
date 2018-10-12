@@ -15,7 +15,9 @@ Note:
 ---
 
 @snap[top-west]
+
 ### Gartner
+
 @snapend
 
 ![DevSecOps by gartner](assets/img/devsecops-gartner.jpg)
