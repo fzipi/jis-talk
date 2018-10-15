@@ -110,7 +110,7 @@ Note:
 
 ---
 
-Asegurar los scripts de automatizacion
+Asegurar los scripts de automatización
 
 Note: 
 
