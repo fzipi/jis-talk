@@ -35,6 +35,8 @@ Llevar la seguridad lo más al inicio del ciclo
 
 Adaptar las herramientas y procesos a los desarrolladores
 
+---
+
 ![DevOps toolset](assets/img/devops-tools.jpg)
 
 Note: 
