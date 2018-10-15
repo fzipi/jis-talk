@@ -67,7 +67,7 @@ Note:
 @transition[none]
 
 @snap[east]
-No esperar utilizar SAST/DAST sin cambios
+SAST/DAST sin cambios?
 @snapend
 
 Note: 
