@@ -62,7 +62,7 @@ Note:
 
 “Focus first on identifying and removing the known critical vulnerabilities.” Instead of wasting time trying to break a system, find focus on known security issues from pre built components, libraries, containers and frameworks; and protect against those before they are put into production.
 
----?image=https://orly-appstore.herokuapp.com/generate?title=Porque%20la%20vida%20es%20muy%20corta&top_text=Mastering%20next-next-next-finish&author=DAST%2FSAST&image_code=3&theme=8&guide_text=The%20definitive%20guide&guide_text_placement=bottom_right&position=left&size=55% 100%
+---?image=assets/img/mastering.png&position=left&size=55% 100%
 
 @transition[none]
 
@@ -92,9 +92,10 @@ Note:
 
 “Adopt a security champion model and implement a simple security requirements gathering tool.” A security champion is someone who can effectively lead the security community of practice, stay up to date with maturity issues, and evangelize, communicate and market what to do with security and how to adapt.
 
----
+---?image=assets/img/manco.png?position=left&size=55% 100%
 
-Eliminar el uso de componentes vulnerables en el origen
+Eliminar el uso de componentes<br />
+vulnerables en el origen
 
 Note: 
 
