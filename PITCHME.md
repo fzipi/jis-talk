@@ -62,7 +62,7 @@ Note:
 
 “Focus first on identifying and removing the known critical vulnerabilities.” Instead of wasting time trying to break a system, find focus on known security issues from pre built components, libraries, containers and frameworks; and protect against those before they are put into production.
 
----?image=assets/img/mastering.png&position=left&size=55% 100%
+---?image=assets/img/mastering.png&position=left&size=55% 70%
 
 @transition[none]
 
@@ -92,10 +92,14 @@ Note:
 
 “Adopt a security champion model and implement a simple security requirements gathering tool.” A security champion is someone who can effectively lead the security community of practice, stay up to date with maturity issues, and evangelize, communicate and market what to do with security and how to adapt.
 
----?image=assets/img/manco.png&position=left&size=55% 100%
+---?image=assets/img/manco.png&position=left&size=55% 70%
 
+@transition[none]
+
+@snap[east]
 Eliminar el uso de componentes<br />
 vulnerables en el origen
+@snapend
 
 Note: 
 
