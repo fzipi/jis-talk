@@ -41,7 +41,7 @@ Note:
 
 “Adapt your security testing tools and processes to the developers, not the other way around:” According to the analysts, the Sec in DevSecOps should be silent. That means the security team needs to change their processes and tools to be integrated into DevOps, instead of trying to enforce their old processes be adopted.
 
----?image=https://clipart.info/images/ccovers/1516943364superman-png-high-definition-quality.png&position=left&size=55% 100%
+---?image=assets/img/superman.png&position=left&size=55% 100%
 @transition[none]
 
 @snap[east]
