@@ -99,7 +99,8 @@ Note:
 @transition[none]
 
 @snap[east]
-Eliminar el uso de componentes<br />
+Eliminar el uso <br />
+de componentes<br />
 vulnerables en el origen
 @snapend
 
