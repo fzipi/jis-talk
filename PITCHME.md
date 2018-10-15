@@ -92,7 +92,7 @@ Note:
 
 “Adopt a security champion model and implement a simple security requirements gathering tool.” A security champion is someone who can effectively lead the security community of practice, stay up to date with maturity issues, and evangelize, communicate and market what to do with security and how to adapt.
 
----?image=assets/img/manco.png&position=left&size=55% 70%
+---?image=assets/img/manco.png&position=left&size=100% 100%
 
 @transition[none]
 
