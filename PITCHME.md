@@ -134,5 +134,5 @@ Note:
 
 “Adopt an immutable infrastructure mindset.“ Teams should work towards a place where all the infrastructure is only updated by the tools. This is a sign that the team is maturing, and it provides a more secure way to maintain applications, according to Head.
 
----?image=assets/img/manco.png&size=50% 90%
+---?image=assets/img/preguntas.png&size=50% 90%
 
