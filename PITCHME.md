@@ -76,7 +76,7 @@ Note:
 
 ---
 
-Entrenar todos los desarrolladores en las bases de *secure coding*
+Entrenar todos los desarrolladores en las bases de *secure coding* <br /><br />
 ...pero no esperen que se conviertan en expertos en seguridad
 
 Note: 
@@ -85,7 +85,7 @@ Note:
 
 ---
 
-Adoptar un modelo de Security Champion
+Adoptar un modelo de Security Champion<br /><br />
 Implementar una herramienta simple para recabar requerimientos de seguridad
 
 Note: 
@@ -134,6 +134,5 @@ Note:
 
 “Adopt an immutable infrastructure mindset.“ Teams should work towards a place where all the infrastructure is only updated by the tools. This is a sign that the team is maturing, and it provides a more secure way to maintain applications, according to Head.
 
----
+---?image=assets/img/manco.png&size=50% 90%
 
-¿Preguntas?
